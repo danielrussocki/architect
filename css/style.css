@@ -1,0 +1,66 @@
+.p-fixed{
+	position: fixed;
+}
+.font-black{
+	color: #222;
+}
+.bg-md{
+	opacity: .9;
+}
+.nav-item a{
+	color: #005670;
+}
+.nav-item a:hover{
+	color: #fff;
+    background-color: #005670;
+}
+.h-bg-white{
+	color: #005670;
+	background-color: #fff;
+}
+.bg-pattron{
+	background-image: linear-gradient(#005670,#104352,#236679);
+}
+section hr{
+	border-color: #fff;
+	opacity: .8;
+	margin: 0 1%;
+}
+.opacity-0{
+	opacity: 0;
+}
+.card{
+	border: none;
+}
+.buildings{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+.build{
+	color: #999a01;
+}
+.build i{
+	font-size: 5rem;
+}
+footer i{
+	font-size: 2rem;
+}
+.bg-wine{
+	background-color: #b52435;
+}
+.img-footer{
+	margin-top: 2rem;
+	width: 8rem;
+	float: right;
+}
+.bg-city{
+	background: url("../img/city.png") repeat-x;
+	background-size: 21rem;
+	width: 100%;
+	height: 13rem;
+}
+.tam-text{
+	font-size: 1.25rem;
+}
